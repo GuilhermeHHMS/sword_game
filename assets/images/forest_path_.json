@@ -1,0 +1,14 @@
+{ "columns":8,
+ "image":"forest_\/forest_path_.png",
+ "imageheight":80,
+ "imagewidth":128,
+ "margin":0,
+ "name":"forest_path_",
+ "spacing":0,
+ "tilecount":40,
+ "tiledversion":"1.9.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.9"
+}
